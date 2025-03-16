@@ -23,3 +23,7 @@ A Django-based task management application with Celery, Redis, PostgreSQL, and D
    ```bash
    git clone https://github.com/your-repo/taskmanager.git
    cd taskmanager
+
+   docker-compose up --build
+   docker-compose exec web python manage.py migrate
+   docker-compose down
