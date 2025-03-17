@@ -170,7 +170,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'aryanpatke03@gmail.com'  
-EMAIL_HOST_PASSWORD = 'ptje cthw wjll ullw'  
+EMAIL_HOST_PASSWORD = 'apppassword'  
 DEFAULT_FROM_EMAIL = 'aryanpatke03@gmail.com'  
 
 
